@@ -1,0 +1,44 @@
+h3{
+  font-family: Helvetica;
+}
+
+/* By Class*/
+.blue-text {
+  font-family: Helvetica;
+  font-weight: bold;
+  color:blue;
+}
+
+.item{
+  font-family: Helvaetica;
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+}
+
+
+/* By ID */
+
+#main-title{
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color:khaki;
+  text-align: center;
+}
+
+#title-bg{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+}
+
+#brush-holder{
+  background-color: mediumspringgreen;
+}
+
+#frames-holder{
+  background-color: lightcoral;
+}
+
+#paint-holder{
+  background-color: skyblue;
+}
